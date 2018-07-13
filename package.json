@@ -1,0 +1,30 @@
+{
+  "name": "socialMediaApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-http-to-https": "^1.1.4",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth": "^1.0.0",
+    "passport-google-plus": "^0.5.1",
+    "passport-twitter": "^1.0.4",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "twit": "^2.2.11"
+  }
+}
